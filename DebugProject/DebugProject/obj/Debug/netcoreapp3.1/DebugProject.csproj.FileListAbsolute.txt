@@ -1,0 +1,13 @@
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.exe
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.deps.json
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.runtimeconfig.json
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.runtimeconfig.dev.json
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.dll
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\bin\Debug\netcoreapp3.1\DebugProject.pdb
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.csprojAssemblyReference.cache
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.csproj.CoreCompileInputs.cache
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.AssemblyInfoInputs.cache
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.AssemblyInfo.cs
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.dll
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.pdb
+D:\code\VisualStudioProjects\VSIX_EventBlocks\DebugProject\DebugProject\obj\Debug\netcoreapp3.1\DebugProject.genruntimeconfig.cache
